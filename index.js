@@ -1,4 +1,7 @@
-const sayHello = (name = 'World', greeting = 'Hello') => {
+const sayHello = (name, greeting) => {
+  greeting = greeting || 'Hello';
+  name = name || 'World';
+
   return `${greeting} ${name}`;
 };
 
