@@ -1,8 +1,11 @@
 {
   "name": "@audwinoyong/hello-world-npm",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple hello world package.",
   "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
   "scripts": {
     "test": "tape **/*.js",
     "prepare": "husky install"
