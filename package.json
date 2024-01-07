@@ -7,8 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "tape **/*.js",
-    "prepare": "husky install"
+    "test": "tape **/*.js"
   },
   "repository": {
     "type": "git",
@@ -26,7 +25,6 @@
   },
   "homepage": "https://github.com/audwinoyong/hello-world-npm#readme",
   "devDependencies": {
-    "husky": "^8.0.3",
     "tape": "^5.7.2"
   }
 }
