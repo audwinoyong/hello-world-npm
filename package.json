@@ -1,0 +1,24 @@
+{
+  "name": "@audwinoyong/hello-world-npm",
+  "version": "1.0.0",
+  "description": "A simple hello world package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/audwinoyong/hello-world-npm.git"
+  },
+  "keywords": [
+    "node",
+    "hello",
+    "hello-world"
+  ],
+  "author": "Audwin Oyong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/audwinoyong/hello-world-npm/issues"
+  },
+  "homepage": "https://github.com/audwinoyong/hello-world-npm#readme"
+}
