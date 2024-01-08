@@ -1,6 +1,6 @@
 {
   "name": "@audwinoyong/hello-world-npm",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A simple hello world package.",
   "main": "index.js",
   "directories": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/audwinoyong/hello-world-npm.git"
+    "url": "https://github.com/audwinoyong/hello-world-npm.git"
   },
   "keywords": [
     "node",
